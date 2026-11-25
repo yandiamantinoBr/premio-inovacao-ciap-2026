@@ -92,14 +92,14 @@
     return '<section class="hero" aria-labelledby="hero-title">' +
       '<img class="hero-image" src="' + attrUrl(cover) + '" alt="' + esc(data.coverAlt || '') + '" fetchpriority="high">' +
       '<div class="hero-shade"></div><div class="hero-content"><p class="eyebrow hero-eyebrow"><span class="bar"></span>3º Prêmio de Inovação</p>' +
-      '<h1 id="hero-title">ChatPP<span>no pódio.</span></h1>' +
+      '<h1 id="hero-title">ChatPP <span>no pódio.</span></h1>' +
       '<p class="hero-story">A conquista do CIAP e da UFG no Prêmio de Inovação do Setor Público de Goiás em ' + episodes.length + ' filmes.</p>' +
       '<div class="hero-actions"><a class="btn hero-watch" href="' + attrUrl(main.url) + '">' + icon('play') + 'Assistir ao filme</a>' +
       '<a class="hero-browse" href="#filmes">Explorar a série ' + icon('down') + '</a></div></div>' +
       '<div class="hero-meta">' + icon('pin') + '<span>Goiânia, GO</span><i></i><time datetime="2026-11-24">24 nov. 2026</time></div></section>';
   }
   function card(ep, index) {
-    return '<article class="film-card" data-category="' + esc(ep.category || '') + '"><a href="' + attrUrl(ep.url) + '">' +
+    return '<article class="film-card" data-category="' + esc(ep.category || '') + '"><a data-episode="' + esc(ep.id) + '" href="' + attrUrl(ep.url) + '">' +
       '<div class="card-img"><img src="' + attrUrl(ep.poster) + '" width="768" height="432" alt="' + esc(ep.posterAlt || '') + '" loading="' + (index < 3 ? 'eager' : 'lazy') + '" decoding="async">' +
       '<span class="card-play" aria-hidden="true">' + icon('play') + '</span><span class="runtime">' + esc(duration(ep.duration)) + '</span></div>' +
       '<div class="card-caption"><div><p class="card-tag">' + (ep.category ? esc(ep.category) : 'Filme ' + sequence(ep)) +
@@ -257,6 +257,10 @@
     }
     byId('open-file').href = safeUrl(hd.url || light.url) || '#';
     byId('wa').href = 'https://wa.me/?text=' + encodeURIComponent(current.title + '\n' + clipUrl());
+    document.querySelectorAll('.next-films a[data-episode]').forEach(link => {
+      const nextEpisode = episodes.find(ep => ep.id === link.dataset.episode);
+      if (nextEpisode) link.href = clipUrl(nextEpisode);
+    });
     byId('video-error').hidden = true;
     if (rewriteUrl) history.replaceState(history.state, '', clipUrl());
     video.onloadedmetadata = () => {
