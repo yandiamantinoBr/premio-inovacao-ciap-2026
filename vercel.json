@@ -1,0 +1,10 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "buildCommand": "node build.mjs",
+  "outputDirectory": "dist",
+  "trailingSlash": true,
+  "headers": [
+    {"source": "/media/(.*)", "headers": [{"key": "Cache-Control", "value": "public, max-age=3600, s-maxage=86400"}, {"key":"Content-Type","value":"video/mp4"}]},
+    {"source": "/assets/(.*)", "headers": [{"key":"Cache-Control","value":"public, max-age=3600, s-maxage=86400"}]}
+  ]
+}

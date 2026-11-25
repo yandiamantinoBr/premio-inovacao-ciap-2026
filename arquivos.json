@@ -1,0 +1,845 @@
+{
+  "releaseTag": "videos-2026-v1",
+  "videos": [
+    {
+      "id": "v01",
+      "duration": 54.596208,
+      "formats": {
+        "16x9": {
+          "variants": {
+            "hd-com-legendas": {
+              "file": "v01-16x9-hd-com-legendas.mp4",
+              "bytes": 102095274,
+              "sha256": "5981c60e8539776c09255607a89e1991227df93c6bfdc4de511b527e9be9b786",
+              "width": 1920,
+              "height": 1080
+            },
+            "hd-sem-legendas": {
+              "file": "v01-16x9-hd-sem-legendas.mp4",
+              "bytes": 114495484,
+              "sha256": "0d68684c6798c82cfbab797c0bd0a85f773ffb91e15c4d1ac744a096efaf37cd",
+              "width": 1920,
+              "height": 1080
+            },
+            "leve-com-legendas": {
+              "file": "v01-16x9-leve-com-legendas.mp4",
+              "bytes": 14426597,
+              "sha256": "fa12bec5f855c44663d7dd5251d3b57edb852983641dbd7ca80cb7884bebb5fa",
+              "width": 1280,
+              "height": 720
+            },
+            "leve-sem-legendas": {
+              "file": "v01-16x9-leve-sem-legendas.mp4",
+              "bytes": 14478754,
+              "sha256": "e5963f6cc2751194afc400ceb8d2dcd6f01b023bbd291af3ae7be84dd36f0bf4",
+              "width": 1280,
+              "height": 720
+            }
+          }
+        },
+        "9x16": {
+          "variants": {
+            "hd-com-legendas": {
+              "file": "v01-9x16-hd-com-legendas.mp4",
+              "bytes": 99042794,
+              "sha256": "e4387ce81f5c93c48315f1f7d20055db0a3d2602e063ae1c9b28efdfb3beb27b",
+              "width": 1080,
+              "height": 1920
+            },
+            "hd-sem-legendas": {
+              "file": "v01-9x16-hd-sem-legendas.mp4",
+              "bytes": 114333995,
+              "sha256": "fd3762098f82335f531f95d763390d05734317e64b09712406c1c05003a8c6c5",
+              "width": 1080,
+              "height": 1920
+            },
+            "leve-com-legendas": {
+              "file": "v01-9x16-leve-com-legendas.mp4",
+              "bytes": 14295033,
+              "sha256": "2823e1f6929605e42eaa13adaa30e49a2a0613e27b3716615a7e5d34eb5341cf",
+              "width": 720,
+              "height": 1280
+            },
+            "leve-sem-legendas": {
+              "file": "v01-9x16-leve-sem-legendas.mp4",
+              "bytes": 14346532,
+              "sha256": "f5c1f811083bee5950e394f0a15cb7e170ff5303c7eb5977a3c94dfde8665605",
+              "width": 720,
+              "height": 1280
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "v02",
+      "duration": 34.117417,
+      "formats": {
+        "16x9": {
+          "variants": {
+            "hd-com-legendas": {
+              "file": "v02-16x9-hd-com-legendas.mp4",
+              "bytes": 68295508,
+              "sha256": "46e4f75e3c2390f4f65c3b8437c6c21f6dc6165fbc04aa5e3108b2e9eb5051c2",
+              "width": 1920,
+              "height": 1080
+            },
+            "hd-sem-legendas": {
+              "file": "v02-16x9-hd-sem-legendas.mp4",
+              "bytes": 74117575,
+              "sha256": "64a38d52bd44a6ffe35c9bc448588b18b15da86a3462f89aaa137d0b82742d10",
+              "width": 1920,
+              "height": 1080
+            },
+            "leve-com-legendas": {
+              "file": "v02-16x9-leve-com-legendas.mp4",
+              "bytes": 9742286,
+              "sha256": "67bd212139ad4a0abf7ce923d0bc350cdb32cd85e00cafe7964efbd35eee954d",
+              "width": 1280,
+              "height": 720
+            },
+            "leve-sem-legendas": {
+              "file": "v02-16x9-leve-sem-legendas.mp4",
+              "bytes": 9753169,
+              "sha256": "90c2c00735a84a1408a3e2583e2afbc55510a490f2d08672a07edfcb22822f4e",
+              "width": 1280,
+              "height": 720
+            }
+          }
+        },
+        "9x16": {
+          "variants": {
+            "hd-com-legendas": {
+              "file": "v02-9x16-hd-com-legendas.mp4",
+              "bytes": 64269870,
+              "sha256": "4d94a533fbc2c65912cb5806a6a519455efd04177ad6d15e1b4106698dd4ef48",
+              "width": 1080,
+              "height": 1920
+            },
+            "hd-sem-legendas": {
+              "file": "v02-9x16-hd-sem-legendas.mp4",
+              "bytes": 72226122,
+              "sha256": "48b43af12e49ebfafc8ae0187eafe4672b9bcaa2c940eba2f9715cda7e55ed1a",
+              "width": 1080,
+              "height": 1920
+            },
+            "leve-com-legendas": {
+              "file": "v02-9x16-leve-com-legendas.mp4",
+              "bytes": 9768504,
+              "sha256": "9ace649b88df39c1c4bfc7f476d9e8c2fb988458054432d50901899515593b0b",
+              "width": 720,
+              "height": 1280
+            },
+            "leve-sem-legendas": {
+              "file": "v02-9x16-leve-sem-legendas.mp4",
+              "bytes": 9771849,
+              "sha256": "5cc14864d4b522cf09703d62e1aeb5915047ca90f3775b6674ea3ead89671f5e",
+              "width": 720,
+              "height": 1280
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "v03",
+      "duration": 50.05,
+      "formats": {
+        "16x9": {
+          "variants": {
+            "hd-com-legendas": {
+              "file": "v03-16x9-hd-com-legendas.mp4",
+              "bytes": 81174548,
+              "sha256": "dc90f5e6df32a971f13edf2aea5e9579578fe346e3c04cd4ca7e85e00613c28b",
+              "width": 1920,
+              "height": 1080
+            },
+            "hd-sem-legendas": {
+              "file": "v03-16x9-hd-sem-legendas.mp4",
+              "bytes": 96396526,
+              "sha256": "8c49629b26ba351da1e961633fbb722ec19ee2b64cf301ef27590b7728041406",
+              "width": 1920,
+              "height": 1080
+            },
+            "leve-com-legendas": {
+              "file": "v03-16x9-leve-com-legendas.mp4",
+              "bytes": 14457810,
+              "sha256": "0760a1390bb914617712049f3c6f8ecd808c714ddc009aaf24a5bc26bdce7623",
+              "width": 1280,
+              "height": 720
+            },
+            "leve-sem-legendas": {
+              "file": "v03-16x9-leve-sem-legendas.mp4",
+              "bytes": 14476477,
+              "sha256": "47d115750b65f46ceeb490aa5dc43aa17d8082093c927901f28eee920e0fd2cc",
+              "width": 1280,
+              "height": 720
+            }
+          }
+        },
+        "9x16": {
+          "variants": {
+            "hd-com-legendas": {
+              "file": "v03-9x16-hd-com-legendas.mp4",
+              "bytes": 85949226,
+              "sha256": "59dc6a334149c2a81e7e6360c4ef0710adb10ebae69eab7a3997a69004841a67",
+              "width": 1080,
+              "height": 1920
+            },
+            "hd-sem-legendas": {
+              "file": "v03-9x16-hd-sem-legendas.mp4",
+              "bytes": 99524909,
+              "sha256": "cf38d7cb553d1ccfc28ec9cba30b300c366880cba2d6fae14e631dea4107a0c7",
+              "width": 1080,
+              "height": 1920
+            },
+            "leve-com-legendas": {
+              "file": "v03-9x16-leve-com-legendas.mp4",
+              "bytes": 14433813,
+              "sha256": "414c8381d4cfb8d93eb5a8103d332b367a2c77de661de398763941d504d0aa1c",
+              "width": 720,
+              "height": 1280
+            },
+            "leve-sem-legendas": {
+              "file": "v03-9x16-leve-sem-legendas.mp4",
+              "bytes": 14522475,
+              "sha256": "816571702490d276e60eb2c39f018ff11960e005ac04232cece32d8cde29172e",
+              "width": 720,
+              "height": 1280
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "v04",
+      "duration": 42.208833,
+      "formats": {
+        "16x9": {
+          "variants": {
+            "hd-com-legendas": {
+              "file": "v04-16x9-hd-com-legendas.mp4",
+              "bytes": 43698518,
+              "sha256": "9ad39c5d6f1c4ad16b983808f6801572b13f7cde9992f31ec3603434e8fda4d9",
+              "width": 1920,
+              "height": 1080
+            },
+            "hd-sem-legendas": {
+              "file": "v04-16x9-hd-sem-legendas.mp4",
+              "bytes": 50315253,
+              "sha256": "d513b1865c5e1f222f49b18ba13416ac19637bb2aa6dc10cacddd8c67aa2b9a1",
+              "width": 1920,
+              "height": 1080
+            },
+            "leve-com-legendas": {
+              "file": "v04-16x9-leve-com-legendas.mp4",
+              "bytes": 8515935,
+              "sha256": "1e065d0b5cf278796d6029e91dd5eb220e566b832df39409d0845690805bd129",
+              "width": 1280,
+              "height": 720
+            },
+            "leve-sem-legendas": {
+              "file": "v04-16x9-leve-sem-legendas.mp4",
+              "bytes": 8633576,
+              "sha256": "43c9a0ed0ff4b421f47d206c3b6d3c296ea40c26c76ea9eb2e1ae60f10044ed8",
+              "width": 1280,
+              "height": 720
+            }
+          }
+        },
+        "9x16": {
+          "variants": {
+            "hd-com-legendas": {
+              "file": "v04-9x16-hd-com-legendas.mp4",
+              "bytes": 40102639,
+              "sha256": "1d6caffdee9c8bda601f113ff3fafeccde674319ca4d987fd4a66ab4716f2863",
+              "width": 1080,
+              "height": 1920
+            },
+            "hd-sem-legendas": {
+              "file": "v04-9x16-hd-sem-legendas.mp4",
+              "bytes": 50259725,
+              "sha256": "241ac94575c8dbe53f7081e7f7b5f8798539abceb8f7d28c4bcfab4a0953018d",
+              "width": 1080,
+              "height": 1920
+            },
+            "leve-com-legendas": {
+              "file": "v04-9x16-leve-com-legendas.mp4",
+              "bytes": 8408451,
+              "sha256": "97ea554a57e63ba4a73fcd859b27eb36752050a4bf7c670128907a0a9bef315e",
+              "width": 720,
+              "height": 1280
+            },
+            "leve-sem-legendas": {
+              "file": "v04-9x16-leve-sem-legendas.mp4",
+              "bytes": 8543119,
+              "sha256": "e7ac36d9af19252316c5d0bf59c2686a2e15addf2a64578c55efd8dab1536942",
+              "width": 720,
+              "height": 1280
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "v05",
+      "duration": 88.755333,
+      "formats": {
+        "16x9": {
+          "variants": {
+            "hd-com-legendas": {
+              "file": "v05-16x9-hd-com-legendas.mp4",
+              "bytes": 139236874,
+              "sha256": "22fbc805175df9d7f3f60ecc2b208fa99a2b5781594ae66d1a132d43090dee11",
+              "width": 1920,
+              "height": 1080
+            },
+            "hd-sem-legendas": {
+              "file": "v05-16x9-hd-sem-legendas.mp4",
+              "bytes": 157937082,
+              "sha256": "af4b6a8363dc86f12c4c800b6752d55d12f75bc114fb601f8cba36718fb51ae3",
+              "width": 1920,
+              "height": 1080
+            },
+            "leve-com-legendas": {
+              "file": "v05-16x9-leve-com-legendas.mp4",
+              "bytes": 14446884,
+              "sha256": "187ea3780085ebe8a844328570fc963afa30cf1b8d6ab2ac5d78c2e02b3282a6",
+              "width": 1280,
+              "height": 720
+            },
+            "leve-sem-legendas": {
+              "file": "v05-16x9-leve-sem-legendas.mp4",
+              "bytes": 14422096,
+              "sha256": "88293c9cb26f2f61d87925b8cb10e3589bbf6fa31e94b50b0a25a796cc210874",
+              "width": 1280,
+              "height": 720
+            }
+          }
+        },
+        "9x16": {
+          "variants": {
+            "hd-com-legendas": {
+              "file": "v05-9x16-hd-com-legendas.mp4",
+              "bytes": 151631872,
+              "sha256": "ee97f8de9e9fbfbab6b96c096a4eee108560e06499dc8312029086c85f0ad4a5",
+              "width": 1080,
+              "height": 1920
+            },
+            "hd-sem-legendas": {
+              "file": "v05-9x16-hd-sem-legendas.mp4",
+              "bytes": 173963716,
+              "sha256": "e52f179581b63101d537f187c25f8cb1b9474940653df335756ab58e7a038c8a",
+              "width": 1080,
+              "height": 1920
+            },
+            "leve-com-legendas": {
+              "file": "v05-9x16-leve-com-legendas.mp4",
+              "bytes": 14414936,
+              "sha256": "970362b5d004a38ee0c14707f44296b471f5f39d0350c412209d68bdeb593fc1",
+              "width": 720,
+              "height": 1280
+            },
+            "leve-sem-legendas": {
+              "file": "v05-9x16-leve-sem-legendas.mp4",
+              "bytes": 14427111,
+              "sha256": "28965d507770396c566885409dcd3ef8544f1962ddcd341be17082648943018a",
+              "width": 720,
+              "height": 1280
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "v06",
+      "duration": 40.498792,
+      "formats": {
+        "16x9": {
+          "variants": {
+            "hd-com-legendas": {
+              "file": "v06-16x9-hd-com-legendas.mp4",
+              "bytes": 59111220,
+              "sha256": "3d116bbd8f286e3882ce4733b3a5a8e1f8b0f034a79ec26baa579e2f876e6294",
+              "width": 1920,
+              "height": 1080
+            },
+            "hd-sem-legendas": {
+              "file": "v06-16x9-hd-sem-legendas.mp4",
+              "bytes": 70926108,
+              "sha256": "8dce63e7d313ff3aa0e69f1335eedeaba35cda0664895811a80893cd410400fb",
+              "width": 1920,
+              "height": 1080
+            },
+            "leve-com-legendas": {
+              "file": "v06-16x9-leve-com-legendas.mp4",
+              "bytes": 11709309,
+              "sha256": "6508c291bd528db745a918ac16305bcd6a78b36cbd24e17e23b223de39d87599",
+              "width": 1280,
+              "height": 720
+            },
+            "leve-sem-legendas": {
+              "file": "v06-16x9-leve-sem-legendas.mp4",
+              "bytes": 11717027,
+              "sha256": "8e2ae5abbc2eb2839e60333150d9fb04e0ae5210b7a3ee0747b248bca834e611",
+              "width": 1280,
+              "height": 720
+            }
+          }
+        },
+        "9x16": {
+          "variants": {
+            "hd-com-legendas": {
+              "file": "v06-9x16-hd-com-legendas.mp4",
+              "bytes": 68618265,
+              "sha256": "f0c906250f0be859cd333f79f4cf2977515646dbaf77e0fc56d682d2eb1a95e5",
+              "width": 1080,
+              "height": 1920
+            },
+            "hd-sem-legendas": {
+              "file": "v06-9x16-hd-sem-legendas.mp4",
+              "bytes": 79047296,
+              "sha256": "13836df84785c76114adc9854cac58a73bb13a7d997cd6c19bd2e2a58d88f323",
+              "width": 1080,
+              "height": 1920
+            },
+            "leve-com-legendas": {
+              "file": "v06-9x16-leve-com-legendas.mp4",
+              "bytes": 11704864,
+              "sha256": "5e600298450830576ebcd35417b48494ba0de257b8df0ebb22a95576ac345096",
+              "width": 720,
+              "height": 1280
+            },
+            "leve-sem-legendas": {
+              "file": "v06-9x16-leve-sem-legendas.mp4",
+              "bytes": 11731528,
+              "sha256": "4e61686d627022a34622e9f4b22b00c0da6a8c491513557142eeb45a54249120",
+              "width": 720,
+              "height": 1280
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "v07",
+      "duration": 49.007292,
+      "formats": {
+        "16x9": {
+          "variants": {
+            "hd-com-legendas": {
+              "file": "v07-16x9-hd-com-legendas.mp4",
+              "bytes": 81165234,
+              "sha256": "db2458c72ac107d2953a2fc1526888c97539bd4fc0f5ae42828d5d6914691e3a",
+              "width": 1920,
+              "height": 1080
+            },
+            "hd-sem-legendas": {
+              "file": "v07-16x9-hd-sem-legendas.mp4",
+              "bytes": 95644955,
+              "sha256": "ad4c9cd4c45874f94f72fe9564322137a7478448fed9d07f22a7f915cc32ac9d",
+              "width": 1920,
+              "height": 1080
+            },
+            "leve-com-legendas": {
+              "file": "v07-16x9-leve-com-legendas.mp4",
+              "bytes": 14116996,
+              "sha256": "ec9538278bdc0ff9a1dc59c299196251709b80926e9157fb514546e81c018ea0",
+              "width": 1280,
+              "height": 720
+            },
+            "leve-sem-legendas": {
+              "file": "v07-16x9-leve-sem-legendas.mp4",
+              "bytes": 14115385,
+              "sha256": "b542442f1428299978d86bdd93b5335f534d30121b8900016a0102dac923ba02",
+              "width": 1280,
+              "height": 720
+            }
+          }
+        },
+        "9x16": {
+          "variants": {
+            "hd-com-legendas": {
+              "file": "v07-9x16-hd-com-legendas.mp4",
+              "bytes": 87004136,
+              "sha256": "2ef9dc07b8288065041cdff42b621ab98cfe0b0c16ed1c371daa2037cb9645ea",
+              "width": 1080,
+              "height": 1920
+            },
+            "hd-sem-legendas": {
+              "file": "v07-9x16-hd-sem-legendas.mp4",
+              "bytes": 99855931,
+              "sha256": "5c0757c29abd07ad3ef5e87ea6c953fd158bc7bda95b1938fe93b40401caa4ca",
+              "width": 1080,
+              "height": 1920
+            },
+            "leve-com-legendas": {
+              "file": "v07-9x16-leve-com-legendas.mp4",
+              "bytes": 14079217,
+              "sha256": "8d449893328c0988344bed69a0bc9503ce53e7d45696641a65a76dce876cbd4c",
+              "width": 720,
+              "height": 1280
+            },
+            "leve-sem-legendas": {
+              "file": "v07-9x16-leve-sem-legendas.mp4",
+              "bytes": 14115427,
+              "sha256": "6fb549061c2e2c41b42bd8dee6d49bf259fc449a109c08eca56ae4819b0ece89",
+              "width": 720,
+              "height": 1280
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "v08",
+      "duration": 50.008292,
+      "formats": {
+        "16x9": {
+          "variants": {
+            "hd-com-legendas": {
+              "file": "v08-16x9-hd-com-legendas.mp4",
+              "bytes": 102201199,
+              "sha256": "f88caa9e8e9552e00988f5d67f6b696f5e144b937965e0d3896076a8e3512512",
+              "width": 1920,
+              "height": 1080
+            },
+            "hd-sem-legendas": {
+              "file": "v08-16x9-hd-sem-legendas.mp4",
+              "bytes": 109633373,
+              "sha256": "1391bd451892306238c108bde03d5d0a9c66a89996b4b6cccde38b06bd06af8f",
+              "width": 1920,
+              "height": 1080
+            },
+            "leve-com-legendas": {
+              "file": "v08-16x9-leve-com-legendas.mp4",
+              "bytes": 14230935,
+              "sha256": "c68c007467a8e407d73d6670d650c8b623d1bda435673fd510431cbceeb8d0c3",
+              "width": 1280,
+              "height": 720
+            },
+            "leve-sem-legendas": {
+              "file": "v08-16x9-leve-sem-legendas.mp4",
+              "bytes": 14263803,
+              "sha256": "5763d31d7d0ccee758db8c30fc1e7c26568393216fbc8368b020ca7e8ac70579",
+              "width": 1280,
+              "height": 720
+            }
+          }
+        },
+        "9x16": {
+          "variants": {
+            "hd-com-legendas": {
+              "file": "v08-9x16-hd-com-legendas.mp4",
+              "bytes": 91029473,
+              "sha256": "6cc8768bade99afb9f0962b8a203aed009da79c7e594e0e0aa0bb3d08e201305",
+              "width": 1080,
+              "height": 1920
+            },
+            "hd-sem-legendas": {
+              "file": "v08-9x16-hd-sem-legendas.mp4",
+              "bytes": 108379566,
+              "sha256": "1c1190e6c97c76c0f939139c182ad09afc6195ca5db59aed8eee53f634662e6a",
+              "width": 1080,
+              "height": 1920
+            },
+            "leve-com-legendas": {
+              "file": "v08-9x16-leve-com-legendas.mp4",
+              "bytes": 14251501,
+              "sha256": "e7245e5331f14f649e55463ab15d49ef28fdadebf977c9bc8fb286cdd6e08cd5",
+              "width": 720,
+              "height": 1280
+            },
+            "leve-sem-legendas": {
+              "file": "v08-9x16-leve-sem-legendas.mp4",
+              "bytes": 14335444,
+              "sha256": "fb9fc2144dbc05a3dd7b347be7ed243bb020b12735dcc4c7ca5d2f125421ec2a",
+              "width": 720,
+              "height": 1280
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "v09",
+      "duration": 49.883167,
+      "formats": {
+        "16x9": {
+          "variants": {
+            "hd-com-legendas": {
+              "file": "v09-16x9-hd-com-legendas.mp4",
+              "bytes": 95367378,
+              "sha256": "442adfe7b523702d8f015b7215024e28b0da0477c00efe7f74be3a5390a6094b",
+              "width": 1920,
+              "height": 1080
+            },
+            "hd-sem-legendas": {
+              "file": "v09-16x9-hd-sem-legendas.mp4",
+              "bytes": 110244350,
+              "sha256": "aaf2e78f660df5b1baead19dbe9e6df4a15fb81906883de5e5766cf2457df0bd",
+              "width": 1920,
+              "height": 1080
+            },
+            "leve-com-legendas": {
+              "file": "v09-16x9-leve-com-legendas.mp4",
+              "bytes": 13960588,
+              "sha256": "ede1bdd14b568d73a9cc81d2b56a55b9e1436418f74039053efaa3b78ee0e7a2",
+              "width": 1280,
+              "height": 720
+            },
+            "leve-sem-legendas": {
+              "file": "v09-16x9-leve-sem-legendas.mp4",
+              "bytes": 13990326,
+              "sha256": "29a7577b36a227594cecfa81b34b96b3afabff53bdc5f8868da734002d233d13",
+              "width": 1280,
+              "height": 720
+            }
+          }
+        },
+        "9x16": {
+          "variants": {
+            "hd-com-legendas": {
+              "file": "v09-9x16-hd-com-legendas.mp4",
+              "bytes": 78577861,
+              "sha256": "93687ce59465d1f1ea5bb92b9e3e9f107cca4d701dc9d51e4a1608c26b7876b4",
+              "width": 1080,
+              "height": 1920
+            },
+            "hd-sem-legendas": {
+              "file": "v09-9x16-hd-sem-legendas.mp4",
+              "bytes": 94662477,
+              "sha256": "9cbab80b6b41838b1dfc258927a19ef0c8671b11ed1f8901bf0043b22f17816f",
+              "width": 1080,
+              "height": 1920
+            },
+            "leve-com-legendas": {
+              "file": "v09-9x16-leve-com-legendas.mp4",
+              "bytes": 13675136,
+              "sha256": "1f80a9a2ec24f240c3945507d60e415e8e497acd95c4d2be846745d066d23a81",
+              "width": 720,
+              "height": 1280
+            },
+            "leve-sem-legendas": {
+              "file": "v09-9x16-leve-sem-legendas.mp4",
+              "bytes": 13872381,
+              "sha256": "560db6395fe315c5e1c6af8a5ba731e34b36411a45c9b0fed8b6779fc321a1d7",
+              "width": 720,
+              "height": 1280
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "v10",
+      "duration": 47.213833,
+      "formats": {
+        "16x9": {
+          "variants": {
+            "hd-com-legendas": {
+              "file": "v10-16x9-hd-com-legendas.mp4",
+              "bytes": 52597926,
+              "sha256": "55cb0c99fcf3e9cd6f9275c960537d0269503fd08145ec7c167e910c883a5827",
+              "width": 1920,
+              "height": 1080
+            },
+            "hd-sem-legendas": {
+              "file": "v10-16x9-hd-sem-legendas.mp4",
+              "bytes": 68557890,
+              "sha256": "b1d2355195d621a755af7e12b1d2f86448cfff88a6874163ad8dc8e685099e48",
+              "width": 1920,
+              "height": 1080
+            },
+            "leve-com-legendas": {
+              "file": "v10-16x9-leve-com-legendas.mp4",
+              "bytes": 11985602,
+              "sha256": "0fc65b66300089eb8e034e59b44b5550879201ad707e4697bfd6d17a97313b13",
+              "width": 1280,
+              "height": 720
+            },
+            "leve-sem-legendas": {
+              "file": "v10-16x9-leve-sem-legendas.mp4",
+              "bytes": 11876334,
+              "sha256": "58631592bed9e2c260cd3e4e4be9b7b10f0426052218840b820f9683bd634195",
+              "width": 1280,
+              "height": 720
+            }
+          }
+        },
+        "9x16": {
+          "variants": {
+            "hd-com-legendas": {
+              "file": "v10-9x16-hd-com-legendas.mp4",
+              "bytes": 50837541,
+              "sha256": "e7e42756510b96a2a89b65d0988da55c624320a69b5770bb070375d9e454d87a",
+              "width": 1080,
+              "height": 1920
+            },
+            "hd-sem-legendas": {
+              "file": "v10-9x16-hd-sem-legendas.mp4",
+              "bytes": 65449432,
+              "sha256": "2335cb08b99cf62cdfd65f8d22dc5618abe52524ca3ac99bee94656e4047d566",
+              "width": 1080,
+              "height": 1920
+            },
+            "leve-com-legendas": {
+              "file": "v10-9x16-leve-com-legendas.mp4",
+              "bytes": 11684728,
+              "sha256": "693cd594c01e1c9031cf9013d1521e53e0202d594db308b461a59a90292db3ee",
+              "width": 720,
+              "height": 1280
+            },
+            "leve-sem-legendas": {
+              "file": "v10-9x16-leve-sem-legendas.mp4",
+              "bytes": 11731154,
+              "sha256": "4d45a453377b5fbd597f54ab466a006a46cadeff252c72cb90de20cf579c9b8b",
+              "width": 720,
+              "height": 1280
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "v11",
+      "duration": 49.215833,
+      "formats": {
+        "16x9": {
+          "variants": {
+            "hd-com-legendas": {
+              "file": "v11-16x9-hd-com-legendas.mp4",
+              "bytes": 99731996,
+              "sha256": "3c262527871d99fbb20d5673f162d3e428e2387c14f0dc8d665b5b4e31f499d0",
+              "width": 1920,
+              "height": 1080
+            },
+            "hd-sem-legendas": {
+              "file": "v11-16x9-hd-sem-legendas.mp4",
+              "bytes": 110339348,
+              "sha256": "ed763a56b6044672896a9541e98bde76ad761ad9c6ace3bbf4312da183f52ba9",
+              "width": 1920,
+              "height": 1080
+            },
+            "leve-com-legendas": {
+              "file": "v11-16x9-leve-com-legendas.mp4",
+              "bytes": 14141789,
+              "sha256": "57bb680b43e706dfe1917a77435ea8547e76876fe0c2cea84d8390a7e173f6b4",
+              "width": 1280,
+              "height": 720
+            },
+            "leve-sem-legendas": {
+              "file": "v11-16x9-leve-sem-legendas.mp4",
+              "bytes": 14166462,
+              "sha256": "764ec176a246598c85b76b71e7d7a403fa5b72423d3edbe5f32a6c8426d9e2f9",
+              "width": 1280,
+              "height": 720
+            }
+          }
+        },
+        "9x16": {
+          "variants": {
+            "hd-com-legendas": {
+              "file": "v11-9x16-hd-com-legendas.mp4",
+              "bytes": 93613233,
+              "sha256": "e5341f5ae5a8cfffbc2d61abcd8fb22db0fe9f096c88b78bd5f185a9604970bd",
+              "width": 1080,
+              "height": 1920
+            },
+            "hd-sem-legendas": {
+              "file": "v11-9x16-hd-sem-legendas.mp4",
+              "bytes": 110998494,
+              "sha256": "2fbf83babc0be14afad53b8aaa1076e080b5b124f33ce8221fb732ab323a31e4",
+              "width": 1080,
+              "height": 1920
+            },
+            "leve-com-legendas": {
+              "file": "v11-9x16-leve-com-legendas.mp4",
+              "bytes": 14179596,
+              "sha256": "40bde2b2ce16f07e68277ca5aa60d47830099a9081cac835fee0ad59b2a00087",
+              "width": 720,
+              "height": 1280
+            },
+            "leve-sem-legendas": {
+              "file": "v11-9x16-leve-sem-legendas.mp4",
+              "bytes": 14174248,
+              "sha256": "9d0ce9d9d1b9431a727d7f8396bdbac1343f309c65ea1557b20172ada402c580",
+              "width": 720,
+              "height": 1280
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "v12",
+      "duration": 37.037,
+      "formats": {
+        "16x9": {
+          "variants": {
+            "hd-com-legendas": {
+              "file": "v12-16x9-hd-com-legendas.mp4",
+              "bytes": 56879679,
+              "sha256": "0601d230b2f5c048a040d8cccfd432776c001dde1d8f9ad5b7718e9f518ea23c",
+              "width": 1920,
+              "height": 1080
+            },
+            "hd-sem-legendas": {
+              "file": "v12-16x9-hd-sem-legendas.mp4",
+              "bytes": 68718945,
+              "sha256": "bff4b3a893e75d76c99764e2577ab3cc6dfa3155dbbec9159ceff48f6d6bba4b",
+              "width": 1920,
+              "height": 1080
+            },
+            "leve-com-legendas": {
+              "file": "v12-16x9-leve-com-legendas.mp4",
+              "bytes": 10631722,
+              "sha256": "a062a9a8d4afd6b5b76f8164ac5c80268a62313f93122407e3c2735e7c66139e",
+              "width": 1280,
+              "height": 720
+            },
+            "leve-sem-legendas": {
+              "file": "v12-16x9-leve-sem-legendas.mp4",
+              "bytes": 10635078,
+              "sha256": "eac32525f8d111c983a0b7bfe775fa643f5d307e29009f901c6440e995e15378",
+              "width": 1280,
+              "height": 720
+            }
+          }
+        },
+        "9x16": {
+          "variants": {
+            "hd-com-legendas": {
+              "file": "v12-9x16-hd-com-legendas.mp4",
+              "bytes": 53335279,
+              "sha256": "4029ddbfea534db411f01c7bcdc2fc9820bdef25419184eb78edc18b3a8d0f21",
+              "width": 1080,
+              "height": 1920
+            },
+            "hd-sem-legendas": {
+              "file": "v12-9x16-hd-sem-legendas.mp4",
+              "bytes": 65871649,
+              "sha256": "5bf3bb1a999b89d4cc9bb637651ea97e2d9be1924b65f74f5190b1fbb82f0e1c",
+              "width": 1080,
+              "height": 1920
+            },
+            "leve-com-legendas": {
+              "file": "v12-9x16-leve-com-legendas.mp4",
+              "bytes": 10467504,
+              "sha256": "60bd05132c20ff505209a302142afe0adbcd4041e4eafc8d5f289d6119fc9dda",
+              "width": 720,
+              "height": 1280
+            },
+            "leve-sem-legendas": {
+              "file": "v12-9x16-leve-sem-legendas.mp4",
+              "bytes": 10565084,
+              "sha256": "1f9fe98d0c11a9108a6ec06490a6f6a0a4e28edc39202f1d9003634c60eeb495",
+              "width": 720,
+              "height": 1280
+            }
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "origin": "https://premio-inovacao-ciap-2026.vercel.app",
+  "repository": "https://github.com/yandiamantinoBr/premio-inovacao-ciap-2026",
+  "releaseTag": "videos-2026-v1",
+  "title": "3º Prêmio de Inovação",
+  "description": "O ChatPP, da UFG, conquistou o primeiro lugar em sua categoria no 3º Prêmio de Inovação do Setor Público de Goiás. Acompanhe a conquista do CIAP em 12 vídeos.",
+  "cover": "/assets/capa.webp",
+  "coverAlt": "Quatro integrantes do CIAP, de camisas vermelhas, mostram as medalhas em frente ao painel azul do prêmio em Goiânia.",
+  "logos": {"ciap": "/assets/marcas/ciap-branca.svg", "ufg": "/assets/marcas/ufg-branca.png", "ciapColor": "/assets/marcas/ciap-cor.svg", "ufgColor": "/assets/marcas/ufg-cor.png"},
+  "institutions": [
+    {"name":"CIAP","url":"https://ciap.org.br/","links":[{"name":"Instagram","url":"https://www.instagram.com/ciap.br/"},{"name":"YouTube","url":"https://www.youtube.com/@ciap_br"},{"name":"LinkedIn","url":"https://www.linkedin.com/company/ciap-ufg/"}]},
+    {"name":"UFG","url":"https://ufg.br/","links":[{"name":"Instagram","url":"https://www.instagram.com/ufg_oficial/"},{"name":"YouTube","url":"https://www.youtube.com/channel/UCVEN3bSdTJsYvDM0JfqerYA"},{"name":"LinkedIn","url":"https://www.linkedin.com/school/universidade-federal-de-goias/"}]}
+  ],
+  "creator":{"name":"Yan Diamantino","links":[{"name":"LinkedIn","url":"https://www.linkedin.com/in/yandiamantinobr/"},{"name":"Instagram","url":"https://www.instagram.com/yandiamantinobr/"},{"name":"GitHub","url":"https://github.com/yandiamantinoBr"}]},
+  "vozes":{"url":"https://vgp-site.vercel.app/","image":"/assets/vozes.webp","description":"Conversas do CIAP com quem formula e executa políticas públicas. Conheça os episódios e os territórios retratados pelo podcast.","coverAlt":"Microfone ilustrado e marca do podcast Vozes da Gestão Pública."},
+  "episodes":[
+    {"id":"V01","slug":"chatpp-conquista-o-primeiro-lugar","title":"ChatPP conquista o primeiro lugar","category":"Premiação","description":"A UFG recebe o prêmio pelo ChatPP. A equipe e a reitora celebram o primeiro lugar em Inovação em outras instituições públicas."},
+    {"id":"V02","slug":"o-instante-da-vitoria","title":"O instante da vitória","category":"Premiação","description":"O resultado sai e a comemoração toma conta da equipe. Um olhar de perto sobre esses primeiros segundos."},
+    {"id":"V03","slug":"reitora-sandramara-matias-chaves","title":"Sandramara Matias Chaves","category":"Equipe","description":"A reitora da UFG fala da conquista e reconhece o trabalho da equipe junto aos municípios."},
+    {"id":"V04","slug":"o-que-e-o-chatpp","title":"O que é o ChatPP?","category":"Projetos","description":"Conheça o assistente de inteligência artificial para políticas públicas e os materiais apresentados pelo CIAP."},
+    {"id":"V05","slug":"a-equipe-do-ciap","title":"A equipe do CIAP conta a conquista","category":"Equipe","description":"Em entrevista depois da premiação, três integrantes do CIAP contam como o projeto chegou até aqui."},
+    {"id":"V06","slug":"gerapp-e-municipios","title":"Inovação que começa nos municípios","category":"Projetos","description":"A equipe explica o GeraPP e a relação do projeto com o trabalho de gestores municipais."},
+    {"id":"V07","slug":"quem-fez-o-projeto-chegar-aqui","title":"Quem fez o projeto chegar aqui","category":"Equipe","description":"As pessoas e as parcerias por trás do projeto, reunidas no dia da entrega do prêmio."},
+    {"id":"V08","slug":"a-corrida-pelo-podio","title":"A corrida pelo pódio","category":"Bastidores","description":"À beira da pista do Autódromo de Goiânia, a equipe acompanha a disputa e celebra o resultado."},
+    {"id":"V09","slug":"o-anuncio-e-a-entrega","title":"O anúncio e a entrega","category":"Premiação","description":"Do anúncio do ChatPP em primeiro lugar à entrega do troféu no palco."},
+    {"id":"V10","slug":"tres-anos-de-trabalho","title":"Três anos de trabalho para o setor público","category":"Projetos","description":"A trajetória do CIAP e a aplicação da inteligência artificial ao trabalho com políticas públicas."},
+    {"id":"V11","slug":"da-chegada-ao-podio","title":"Da chegada ao pódio","category":"Bastidores","description":"A chegada ao autódromo, os encontros e a preparação da equipe para a premiação em Goiânia."},
+    {"id":"V12","slug":"obrigado-por-essa-conquista","title":"Obrigado por essa conquista","category":"Equipe","description":"A reitora e a equipe encerram o dia com agradecimentos e um retrato coletivo."}
+  ]
+}
